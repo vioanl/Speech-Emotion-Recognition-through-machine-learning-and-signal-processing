@@ -7,7 +7,7 @@ In present master’s thesis, a deep learning model is built for speech emotion
 recognition. The databases that are used for the training and the evaluation of the 
 models are: the Ryerson Audio-Visual Database of Emotional Speech and Song or 
 RAVDESS, the Interactive Emotional Dyadic Motion Capture or IEMOCAP and a 
-combination of them. Convolutional neural networks are chosen as the classification 
+combination of them. Convolutional neural networks (1D and 2D) are chosen as the classification 
 method. 
 From the evaluation of the models, it’s clear that the results are comparable with 
 the state of the art.
